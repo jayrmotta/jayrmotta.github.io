@@ -1,0 +1,4 @@
+/* Override hugo-theme-terminal's default accent color (see themes/terminal/assets/css/main.css) */
+:root {
+  --accent: #f7931a;
+}
